@@ -18,4 +18,4 @@ The dataset used is the [Auto MPG dataset](https://archive.ics.uci.edu/ml/datase
 - `origin`: Region of origin
 - `car name`: Vehicle name (string, often excluded in modeling)
 
-This open-source project is available under the [MIT License]().
+This open-source project is available under the [MIT License](https://github.com/hossein-rahmati/Fuel-Fuel-Efficiency/blob/main/LICENSE).
